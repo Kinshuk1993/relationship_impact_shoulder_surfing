@@ -1,2 +1,2 @@
-# Relationship Impact on Shoulder Surfing
-The impact of changing relationships on shoulder surfing, it's privacy and the protections mechanisms
+# IMPACT OF RELATIONSHIPS ON RESPONSE TO SHOULDER SURFING
+A masters dissertation research project studying the impact of changing relationships on shoulder surfing, it's privacy and the protections mechanisms. It also contains eye tracking android application and another android application to perform eye-based actions. These applications were created only as POCs and were used to assist in the research.
