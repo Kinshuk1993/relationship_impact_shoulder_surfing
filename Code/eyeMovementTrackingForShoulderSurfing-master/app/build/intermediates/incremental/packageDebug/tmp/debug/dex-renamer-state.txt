@@ -1,0 +1,7 @@
+#Tue Aug 20 16:31:41 BST 2019
+base.0=D\:\\Coding\\UofG-Projects\\Dissertation\\POCs\\Hosek_OpenCV\\Code\\eye_tracking_updated_android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+path.1=classes_0.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\Coding\\UofG-Projects\\Dissertation\\POCs\\Hosek_OpenCV\\Code\\eye_tracking_updated_android\\app\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\out

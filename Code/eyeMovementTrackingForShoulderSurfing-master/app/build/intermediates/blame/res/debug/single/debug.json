@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Coding\\UofG-Projects\\Dissertation\\POCs\\Hosek_OpenCV\\Code\\eye_tracking_updated_android\\app\\build\\intermediates\\res\\merged\\debug\\raw_lbpcascade_frontalface.xml.flat",
+        "source": "D:\\Coding\\UofG-Projects\\Dissertation\\POCs\\Hosek_OpenCV\\Code\\eye_tracking_updated_android\\app\\src\\main\\res\\raw\\lbpcascade_frontalface.xml"
+    },
+    {
+        "merged": "D:\\Coding\\UofG-Projects\\Dissertation\\POCs\\Hosek_OpenCV\\Code\\eye_tracking_updated_android\\app\\build\\intermediates\\res\\merged\\debug\\raw_haarcascade_lefteye_2splits.xml.flat",
+        "source": "D:\\Coding\\UofG-Projects\\Dissertation\\POCs\\Hosek_OpenCV\\Code\\eye_tracking_updated_android\\app\\src\\main\\res\\raw\\haarcascade_lefteye_2splits.xml"
+    },
+    {
+        "merged": "D:\\Coding\\UofG-Projects\\Dissertation\\POCs\\Hosek_OpenCV\\Code\\eye_tracking_updated_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_face_detect_surface_view.xml.flat",
+        "source": "D:\\Coding\\UofG-Projects\\Dissertation\\POCs\\Hosek_OpenCV\\Code\\eye_tracking_updated_android\\app\\src\\main\\res\\layout\\face_detect_surface_view.xml"
+    },
+    {
+        "merged": "D:\\Coding\\UofG-Projects\\Dissertation\\POCs\\Hosek_OpenCV\\Code\\eye_tracking_updated_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "D:\\Coding\\UofG-Projects\\Dissertation\\POCs\\Hosek_OpenCV\\Code\\eye_tracking_updated_android\\app\\src\\main\\res\\drawable\\icon.png"
+    }
+]
